@@ -44,3 +44,10 @@ Here, the chat-bot indulges itself as a good sales representative to elaborate o
 This chat-bot needs to explain the filtered products to the user from the user perspective / profile by carefully detailing all the information accurately.
 
 Finally, all the stages are combined to form an interactive chat-bot which can be deployed on web
+
+# Contributer
+* Shravan Madipelly
+   email id: shravan.madipelly@gmail.com 
+
+## Contact
+Created by [@https://github.com/Madipelly] - +91-9618188869
